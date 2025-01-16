@@ -1,4 +1,6 @@
 ########################INSTALL PYTHON 3.9.12#########################
+sudo rm /usr/lib/python3.11/EXTERNALLY-MANAGED
+
 
 1)sudo apt-get update
 2)sudo apt-get upgrade
