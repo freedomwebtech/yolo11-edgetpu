@@ -26,10 +26,9 @@ exec "$SHELL"
 1)python3 -m venv .venv
 source .venv/bin/activate
 
-2)pip install numpy==1.26.4
-
-3)pip install edge-tpu-silva
-
+2)pip install edge-tpu-silva
+3)pip install numpy==1.26.4
+####Restart Raspberry pi 4#########
 4)silvatpu-linux-setup
-
+####Restart Raspberry pi 4 ########
 ############################################################AFTER ALL THIS PROCESS  COMPLETED JUST REBOOT YOUR RASPBERRY PI 4##########################################################################
